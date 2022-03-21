@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/publisher.dir/src/publisher.cpp.o CMakeFiles/publisher.dir/src/redis_publisher.cpp.o  -o ../bin/publisher -rdynamic /usr/local/lib/libhiredis.so /usr/local/lib/libevent.so -lpthread -Wl,-rpath,/usr/local/lib 
