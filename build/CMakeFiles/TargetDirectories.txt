@@ -1,4 +1,0 @@
-/home/lyh/chat_room_libevent/build/CMakeFiles/rebuild_cache.dir
-/home/lyh/chat_room_libevent/build/CMakeFiles/server.dir
-/home/lyh/chat_room_libevent/build/CMakeFiles/edit_cache.dir
-/home/lyh/chat_room_libevent/build/CMakeFiles/client.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/server.dir/src/server.cpp.o  -o ../bin/server -rdynamic /usr/local/lib/libhiredis.so /usr/local/lib/libevent.so -lpthread -Wl,-rpath,/usr/local/lib 
