@@ -1,4 +1,0 @@
-/home/lyh/Study/chat/build/CMakeFiles/rebuild_cache.dir
-/home/lyh/Study/chat/build/CMakeFiles/server.dir
-/home/lyh/Study/chat/build/CMakeFiles/edit_cache.dir
-/home/lyh/Study/chat/build/CMakeFiles/client.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/subscriber.dir/src/subscriber.cpp.o CMakeFiles/subscriber.dir/src/redis_subscriber.cpp.o  -o ../bin/subscriber -rdynamic /usr/local/lib/libhiredis.so /usr/local/lib/libevent.so -lpthread -Wl,-rpath,/usr/local/lib 
